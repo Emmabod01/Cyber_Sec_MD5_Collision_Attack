@@ -8,3 +8,6 @@ This lab covers a number of topics described in the following:
 • One-way hash function, MD5
 • The collision-resistance property
 • Collision attacks
+
+
+Lab environemnt: LINUX/UNIX - #Ubuntu
